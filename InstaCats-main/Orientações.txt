@@ -1,0 +1,8 @@
+1º fazer o diagrama - usuário, publicações, likes, comentários
+
+Like
+-id
+-id_user
+-id_publicacao
+-createdAt
+-updatedAt
